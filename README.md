@@ -1,25 +1,3 @@
-## Auction App
-A web application which allows users to:
-- Create Auctions (with item image)
-- Place Bets on Auctions
-- Chat with other users
-- Filter/Search for Auctions
-- List Auctions they have created
-- List Bids they have made
-- Login/Register
-- Edit profiles (add profile picture)
-
-
-
-Uses: 
-- Spring Boot  as Backend. 
-- MySQL as Database
-- React + TypeScript as Frontend
-- Session Authentication using cookies
-
-
-
-
 
 ### Local Setup
 1. `git clone https://github.com/shubhamdhingra38/Spring-Boot-Auction-App.git`
