@@ -12,17 +12,13 @@ A web application which allows users to:
 
 
 Uses: 
-- Spring Boot with Spring REST as Backend. 
+- Spring Boot  as Backend. 
 - MySQL as Database
 - React + TypeScript as Frontend
 - Session Authentication using cookies
 
 
-## Screenshot
-![Yet Another Auction App](https://github.com/shubhamdhingra38/Spring-Boot-Auction-App/blob/dev/Screenshot.png)
 
-## Video Demo
-https://www.youtube.com/watch?v=lAzk083WBlo
 
 
 ### Local Setup
